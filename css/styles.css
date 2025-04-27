@@ -49,8 +49,8 @@ a:hover {
 }
 
 .btn-primary {
-    background-color: var(--primary-pink);
-    border-color: var(--primary-pink);
+    background-color: white;
+    border-color: #fccfda;
     color: var(--accent-dark-brown);
     font-weight: 500;
     padding: 10px 25px;
@@ -59,7 +59,7 @@ a:hover {
 }
 
 .btn-primary:hover, .btn-primary:focus {
-    background-color: var(--primary-peach);
+    background-color: #fccfda;
     border-color: var(--primary-peach);
     color: var(--accent-dark-brown);
     transform: translateY(-2px);
